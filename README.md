@@ -1,0 +1,2 @@
+# disconomique.xyz
+disconomics.xyz
