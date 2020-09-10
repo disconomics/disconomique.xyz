@@ -1,3 +1,3 @@
 # disconomique.xyz
 
-Code source pour disconomique.xyz
+Code source pour le disconomique.xyz
